@@ -1,0 +1,12 @@
+# Dataset (downloaded by the notebook)
+imagenette.tgz
+imagenette2-160/
+
+# Large / generated model files
+*.pth
+*.onnx.data
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
